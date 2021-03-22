@@ -17,7 +17,7 @@ ________________________________________________________________________________
 - The opinions are mostly in neutral stance.
 - ![pic](https://github.com/sivaramelumalai/Sivaram_Portfolio/blob/gh-pages/dist%20of%20sent.png)
 
-## [Comparison of algorithm and their accuracy in detection of Hypertension]
+## [Comparison of algorithm and their accuracy in detection of Hypertension]()
 - This work intents to differentiate different classifier.
 - Loggistic regression, SVM, KNN, Decision tree, Random Forest.
 - Based on this dataset KNN and SVM are most like to produce same results in higher side.
