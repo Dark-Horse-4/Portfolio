@@ -19,9 +19,9 @@ ________________________________________________________________________________
 
 
 
-## > Education Qualification
+## Education Qualification
 
-| Institution      | Qualification | Marks/ CGPA |
-| ---------------- | ----------- | ------------- |
-| SRM Institute of science and technology | MTech, Big data analytics | 9.5 |
-| KCG College of technology   | B.E Computer Science and engineering | 7.03 |
+| Institution      | Qualification | Marks/ CGPA | year of passing
+| ---------------- | ----------- | ------------- |-----------|
+| SRM Institute of science and technology | MTech, Big data analytics | 9.5 | 2022 |
+| KCG College of technology   | B.E Computer Science and engineering | 7.03 | 2020 |
