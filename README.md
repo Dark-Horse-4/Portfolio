@@ -16,3 +16,12 @@ ________________________________________________________________________________
 - This project explains the people's opinion about the pfizer vaccine.
 - The opinions are mostly in neutral stance.
 - ![pic](https://github.com/sivaramelumalai/Sivaram_Portfolio/blob/gh-pages/dist%20of%20sent.png)
+
+
+
+## Education Qualification
+
+| Institution      | Qualification | Marks/ CGPA |
+| ---------------- | ----------- |
+| SRM Institute of science and technology      | MTech, Big data analytics       | |
+| KCG College of technology   | B.E Computer Science and engineering        | 7.03 |
