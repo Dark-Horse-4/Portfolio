@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 
 
-## Education Qualification
+## > Education Qualification
 
 | Institution      | Qualification | Marks/ CGPA |
 | ---------------- | ----------- | ------------- |
