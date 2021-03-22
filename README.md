@@ -6,4 +6,4 @@
 --
 
 **## Factor analysis of weather dataset**
-This attempts to club various reasons that are factor for the particular weather.
+- This attempts to club various reasons that are factor for the particular weather.
