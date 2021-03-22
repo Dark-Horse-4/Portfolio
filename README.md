@@ -9,4 +9,4 @@
 ## [Pfizer vaccine sentimental analysis](https://github.com/sivaramelumalai/Pfizer_vaccine_analysis/blob/main/pfizer%20vaccine%20sentiment%20analysis.ipynb)
 - This project explains the people's opinion about the pfizer vaccine.
 - The opinions are mostly in neutral stance.
-- ![](https://github.com/sivaramelumalai/Sivaram_Portfolio/blob/gh-pages/dist%20of%20sent.png)
+- ![pic](https://github.com/sivaramelumalai/Sivaram_Portfolio/blob/gh-pages/dist%20of%20sent.png)
