@@ -32,8 +32,8 @@ ________________________________________________________________________________
 ## Skill Set
 |Skill|Description|
 |--------|--------|
-|Programming Languages|Python , R|
-|Data Analytical tools|PowerBI , Tableau|
+|Programming Languages| Python , R|
+|Data Analytical tools| PowerBI , Tableau|
 |Front-End| Javascript, ReactJS, Angular|
-|BackEnd |NodeJS, Django|
+|BackEnd | NodeJS, Django|
 
