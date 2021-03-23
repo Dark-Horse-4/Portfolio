@@ -30,7 +30,7 @@ ________________________________________________________________________________
 | KCG College of technology   | B.E Computer Science and engineering | 7.03 | 2020 |
 
 ## Skill Set
-|Skill|Description|
+|Skill|Description
 |--------|--------|
 |Programming Languages| Python , R|
 |Data Analytical tools| PowerBI , Tableau|
