@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 | Skill | Description |
 | ----- | -------- |
-| Programming Languages | Python , R |
+| Programming Languages | Python , R, C++ |
 | Data Analytical tools | PowerBI , Tableau |
 | Front-End | Javascript, ReactJS, Angular |
 | BackEnd | NodeJS, Django |
