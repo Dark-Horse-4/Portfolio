@@ -33,7 +33,8 @@ ________________________________________________________________________________
 
 | Title | Company | Duration | Description |
 | -------- | -------- | ------- |-------- |
-| BI -TEST INTERN | VISUAL BI SOLUTIONS, Chennai | 2020(May)-2020(October) |<ul><li> 1.Business Intelligence product **automation testing**.</li><li>2. Power BI platform.</li><li>3. Using **TestCafejs, puppeteer**</li></ul> |
+| BI - Test Intern | VISUAL BI SOLUTIONS, Chennai | 2020(May)-2020(October) |<ul><li> Business Intelligence product **automation testing**.</li><li> Power BI platform.</li><li> Using **TestCafejs, puppeteer**</li></ul> |
+| Product Engineer Intern | Codingmart Technologies, Bangalore | 2019(August) - 2020(May) |<ul><li>Collaborated in full stack development of firm's management product. </li>Involved in development using **React.Js, Angular, Node.js**</li><li>A wide hands on experience on the industry level project in **Django**.</li></ul>|
 
 ## Skill Set
 
