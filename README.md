@@ -33,7 +33,9 @@ ________________________________________________________________________________
 
 | Title | Company | Duration | Description |
 | -------- | -------- | ------- |-------- |
-| BI -TEST INTERN | VISUAL BI SOLUTIONS, Chennai | 2020(May)-2020(October) | 1.Business Intelligence product **automation testing**. 2. Power BI platform. 3. Using **TestCafejs, puppeteer**|
+| BI -TEST INTERN | VISUAL BI SOLUTIONS, Chennai | 2020(May)-2020(October) | 1.Business Intelligence product **automation testing**. 
+2. Power BI platform. 
+3. 3. Using **TestCafejs, puppeteer**|
 
 ## Skill Set
 
