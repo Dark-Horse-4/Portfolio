@@ -26,15 +26,22 @@ ________________________________________________________________________________
 
 | Institution      | Qualification | Marks/ CGPA | year of passing|
 | ---------------- | ----------- | ------------- |-----------|
-| SRM Institute of science and technology | MTech, Big data analytics | 9.44 | 2022 |
-| KCG College of technology   | B.E Computer Science and engineering | 7.03 | 2020 |
+| SRM Institute of science and technology | M.Tech., Big data analytics | 9.44 | 2022 |
+| KCG College of technology   | B.E. Computer Science and engineering | 7.03 | 2020 |
+
+## Internships
+
+| Title | Company | Duration | Description |
+| -------- | -------- | ------- |-------- |
+| BI -TEST INTERN | VISUAL BI SOLUTIONS, Chennai | 2020(May)-2020(October) | 1.Business Intelligence product **automation testing**. 2. Power BI platform. 3. Using **TestCafejs, puppeteer**|
 
 ## Skill Set
 
-| Skill | Description |
+| Skill | Tools, Frameworks and library |
 | ----- | -------- |
-| Programming Languages | Python , R, C++ |
+| Programming Languages | Python, R, C++ |
 | Data Analytical tools | PowerBI , Tableau |
+| Data Science libraries | Scikit, Tensorflow, OpenCV, NLTK |
 | Front-End | Javascript, ReactJS, Angular |
 | BackEnd | NodeJS, Django |
 
