@@ -26,10 +26,11 @@ ________________________________________________________________________________
 
 | Institution      | Qualification | Marks/ CGPA | year of passing|
 | ---------------- | ----------- | ------------- |-----------|
-| SRM Institute of science and technology | MTech, Big data analytics | 9.5 | 2022 |
+| SRM Institute of science and technology | MTech, Big data analytics | 9.44 | 2022 |
 | KCG College of technology   | B.E Computer Science and engineering | 7.03 | 2020 |
 
 ## Skill Set
+
 | Skill | Description |
 | ----- | -------- |
 | Programming Languages | Python , R |
